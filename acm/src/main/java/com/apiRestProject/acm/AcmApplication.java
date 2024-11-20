@@ -1,3 +1,7 @@
+/*
+	Angelo "FoxTG" Ibañez
+*/
+
 package com.apiRestProject.acm;
 
 import com.apiRestProject.acm.persistence.repository.UsuarioRepository;
